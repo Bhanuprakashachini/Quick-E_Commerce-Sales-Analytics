@@ -4,8 +4,6 @@
 
 An end-to-end analytics project covering the full journey from raw data to business intelligence. Raw Quick Commerce transactional data is cleaned and explored in Python, then brought to life in a three-page Power BI dashboard covering sales performance, delivery operations, and customer behavior.
 
-**Live Dashboard →** [View on Power BI](https://app.fabric.microsoft.com/view?r=eyJrIjoiYjdiMGRiYzAtZjZiNy00NzRjLWI0NDQtZjExZGVlMGUwMWU0IiwidCI6ImY0MGYxYTgyLTUwMDItNDg3MC1iMzQ1LTc2ODlhZGUyZmQyZCJ9)
-
 ---
 
 ## What This Project Does
@@ -39,12 +37,18 @@ An end-to-end analytics project covering the full journey from raw data to busin
 Built a three-page interactive report:
 
 **Page 1 — Business Overview**
+<img width="1327" height="728" alt="image" src="https://github.com/user-attachments/assets/01f111ae-ecaa-4027-a2db-a3eeb836193e" />
+
 Revenue, order volume, and average order value at a glance. Breakdowns by city, company, payment method, and top-performing product categories.
 
 **Page 2 — Delivery Performance**
+<img width="1325" height="722" alt="image" src="https://github.com/user-attachments/assets/a30e6ad9-4cc3-49ac-a3dd-95b61270e234" />
+
 Partner ratings, average delivery distance, on-time delivery rate, and company-level comparisons for delivery time, rating, and discount rates.
 
 **Page 3 — Customer Insights**
+<img width="1327" height="713" alt="image" src="https://github.com/user-attachments/assets/e03c78c6-83cb-4d30-a89f-9dc3d6322a87" />
+
 Customer satisfaction scores, high-value order segmentation, items per order, category-level demand, and revenue split by age group.
 
 ---
